@@ -1,6 +1,7 @@
 ---
 title: Building a Chat-Based Manager's Assistant: The Journey Begins
-author: cotes
+description: Building a Chat-Based Manager's Assistant: The Journey Begins
+author: Caio Dias
 date: 2024-08-18 15:00:00 GMT-0200
 categories: [ChiefChat]
 tags: [ChiefChat, LLM, Vercel, Chatbot, AI, WhatsApp, Magie]
